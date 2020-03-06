@@ -8,7 +8,8 @@ Description:
    
 My commitment:
 ----
-I am responsible for making the joysticks work in UNITY. Basically I am making the interaction flow functional in Unity(Screen tools, color picker, replace tools, light tools).My major commitment of code is in this 2 folders.[folder](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/tree/master/MR%20vehicle/MR%20Based%20Design%20and%20Experience%20Platform%20for%20Smart%20Vehicle%20cockpit/Assets/Control) [folder partially](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/tree/master/MR%20vehicle/MR%20Based%20Design%20and%20Experience%20Platform%20for%20Smart%20Vehicle%20cockpit/Assets/Temp/Scripts) 
+I am responsible for making the joysticks work in UNITY. Basically I am making the interaction flow functional in Unity(Screen tools, color picker, replace tools, light tools).My major commitment of code is in this 2 folders.[folder 1](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/tree/master/MR%20vehicle/MR%20Based%20Design%20and%20Experience%20Platform%20for%20Smart%20Vehicle%20cockpit/Assets)
+[folder 2](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/tree/master/MR%20vehicle/MR%20Based%20Design%20and%20Experience%20Platform%20for%20Smart%20Vehicle%20cockpit/Assets/Control) [folder 3](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/tree/master/MR%20vehicle/MR%20Based%20Design%20and%20Experience%20Platform%20for%20Smart%20Vehicle%20cockpit/Assets/Temp/Scripts) 
 My partner Kang hengshi is mainly working on the tracking system and the server.
    
 [video of MR vehicle](https://youtu.be/H55l5J4zbig)
