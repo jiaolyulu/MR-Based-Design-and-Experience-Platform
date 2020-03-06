@@ -8,6 +8,8 @@ Description:
    
    [video of MR vehicle](https://youtu.be/H55l5J4zbig)
    ----
+pictures of MR vehicle
+----
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/7.png)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/8.png)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/2.jpg)
