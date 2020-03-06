@@ -10,5 +10,6 @@ This is a project I done during the internship in Tongji University. Kang Hengsh
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/6.png)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/1.jpg)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/2.jpg)
-![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/3.jpg)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/4.png)
+![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/3.jpg)
+
