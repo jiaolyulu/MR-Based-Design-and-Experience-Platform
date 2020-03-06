@@ -3,7 +3,10 @@ MR Based Design and Experience Platform for Smart Vehicle cockpit
 
 Description:
 ----
-This is a project I done during the internship in Tongji University. Kang Hengshi is my partner. This is an MR based design and experience platform for smart vehicle cockpit using the CDI 12 camera tracking system.
+    This is a project I done during the internship in Tongji University. Kang Hengshi is my partner. This is an MR based design and experience platform for smart vehicle cockpit using the CDI 12 camera tracking system.
+    you can see more about this project in this video. 
+    [video of MR vehicle](https://youtu.be/H55l5J4zbig)
+    ----
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/7.png)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/8.png)
 ![image](https://github.com/jiaolyulu/MR-Based-Design-and-Experience-Platform/blob/master/images/2.jpg)
