@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="gb2312"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <string>Barcelona</string>
+  <string>bingxiang</string>
+  <string>Desk</string>
+  <string>Febo</string>
+  <string>FK_Chair</string>
+  <string>Kitchen</string>
+  <string>kongtiao</string>
+  <string>LampFloor</string>
+  <string>LampFloor2</string>
+  <string>MrChair</string>
+  <string>Puff</string>
+  <string>sideboard</string>
+  <string>Sofa</string>
+  <string>Table</string>
+  <string>TableLamp</string>
+  <string>TableLow</string>
+  <string>TV</string>
+  <string>tv_cabinet</string>
+  <string>VasePlant1</string>
+  <string>VasePlant2</string>
+  <string>VasePlant3</string>
+</ArrayOfString>

@@ -1,0 +1,56 @@
+Initialize engine version: 5.3.6f1 (29055738eb78)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\I18N.dll (this message is harmless)
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\I18N.CJK.dll (this message is harmless)
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\I18N.CJK.dll (this message is harmless)
+Loading D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\I18N.CJK.dll into Unity Child Domain
+- Completed reload, in  0.284 seconds
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 49.980202 ms
+NatNetException: NatNet_Client_Connect failed. (NatNetError_Network)
+  at NaturalPoint.NatNetLib.NatNetException.ThrowIfNotOK (NatNetError result, System.String message) [0x00000] in <filename unknown>:0 
+  at NaturalPoint.NatNetLib.NatNetClient.Connect (System.Net.IPAddress localAddress, System.Net.IPAddress serverAddress, UInt16 serverCommandPort, UInt16 serverDataPort, System.Net.IPAddress multicastAddress) [0x00000] in <filename unknown>:0 
+  at OptitrackStreamingClient.OnEnable () [0x00000] in <filename unknown>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception, Object)
+OptitrackStreamingClient:OnEnable()
+ 
+(Filename:  Line: -1)
+
+OptitrackStreamingClient: Error connecting to server; check your configuration, and make sure the server is currently streaming.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 42b4 -> priority: 1 
+  Thread -> id: 20a8 -> priority: 1 
+Platform assembly: D:\BaiduNetdiskDownload\graduation_project_khs_test_newcontroller\graduation_project_khs_test_newcontroller\Bin\Server\server_Data\Managed\System.Xml.dll (this message is harmless)
+Exception in OnStartServer:Object reference not set to an instance of an object   at Intersight_LoadAssets.LoadAllFromServer (System.String projectName, System.String[] assetBundleNames) [0x00000] in <filename unknown>:0 
+  at Intersight_LoadAssets.InitAssetsOnServer () [0x00000] in <filename unknown>:0 
+  at Intersight_LoadAssets.OnStartServer () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Networking.NetworkIdentity.OnStartServer (Boolean allowNonZeroNetId) [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

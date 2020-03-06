@@ -1,0 +1,15 @@
+5.3.6f1:3.0.0.1
+StandaloneWindows64
+D:/Unityold/Editor/Data/Managed/UnityEngine.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/Unityold/Editor/Data/Managed/UnityEditor.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll
+D:/Unityold/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll
+D:/Unityold/Editor/Data/Managed/UnityEditor.Graphs.dll
+D:/Unityold/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll
